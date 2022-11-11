@@ -6,13 +6,13 @@
 
     <groupId>org.elasticsearch.transport</groupId>
     <artifactId>elasticsearch-plugin</artifactId>
-    <version>8.4.3</version>
+    <version>8.5.0</version>
     <name>Plugin: Netty4</name>
     <description>Plugin to enable netty4 transport type</description>
 
     <properties>
         <netty.version>4.1.84.Final</netty.version>
-        <elasticsearch.version>8.4.3</elasticsearch.version>
+        <elasticsearch.version>8.5.0</elasticsearch.version>
     </properties>
 
     <dependencies>
